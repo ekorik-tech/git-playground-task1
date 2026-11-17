@@ -42,3 +42,8 @@ Claude caught the deliberately introduced stray edit: SESSION_TIMEOUT_MINUTES ch
 - Branch: `read-repo`.
 - Commit `71c8d2e` ("Document Git diff review exercise") is on this branch. The first commit contained only `notes.md` (37 insertions).
 - The branch has been pushed to GitHub (`origin`, `ekorik-tech/git-playground-task1`).
+- Pull request: https://github.com/mate-academy/git-playground-task1/pull/490
+- Target repository: `mate-academy/git-playground-task1` (the original course repository, not the fork).
+- Base branch: `main`.
+- Head branch: `ekorik-tech:read-repo`.
+- The pull request includes `notes.md`, `notes.js` and `lib/config.js`. The practice edits to `notes.js` and `lib/config.js` were committed and pushed in commit `d5b0787`.
